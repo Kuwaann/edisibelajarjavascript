@@ -1,0 +1,21 @@
+const ceil = Math.ceil(10.1);
+const floor = Math.floor(10.9);
+const round = Math.round(10.4);
+const random = Math.random();
+const max = Math.max(0, 1, 2, 3, 4, 5);
+const min = Math.min(0, 1, 2, 3, 4, 5);
+const pow = Math.pow(4, 2);
+const sqrt = Math.sqrt(64);
+const abs = Math.abs(-10);
+const trunc = Math.trunc(6.8);
+
+console.log(ceil);
+console.log(floor);
+console.log(round);
+console.log(random);
+console.log(max);
+console.log(min);
+console.log(pow);
+console.log(sqrt);
+console.log(abs);
+console.log(trunc);
